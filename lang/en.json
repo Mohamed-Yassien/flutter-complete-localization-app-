@@ -1,0 +1,12 @@
+{
+  "home_screen": "Home Screen",
+  "personal_info" : "Personal Information",
+  "name_hint" : "Enter Your Name",
+  "email_hint" : "Enter Your Email",
+  "date_hint" : "Select Your Date",
+  "required_field" : "Required Field",
+  "save" : "Save Information",
+  "settings" : "Settings",
+  "about_us" : "About Us",
+  "select_lang" : "Select Language"
+}
